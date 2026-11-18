@@ -25,8 +25,11 @@ With a background in visual arts and a growing foundation in web development, I 
 ## SELECTED WORK
 
 I'm currently developing my design practice through coursework, creative projects, and hands-on experimentation.
+
 **Portfolio:** [Explore my portfolio](https://slingbean.github.io/HTML-AND-CSS-PROJECTS/)
+
 **Dribbble:** [View my design work](https://dribbble.com/cara-slingsby)
+
 **GitHub:** [Explore my repositories](https://github.com/slingbean?tab=repositories)
 
 ---
