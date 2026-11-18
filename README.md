@@ -1,5 +1,7 @@
 <div align="center">
-
+<div align="center">
+  <img src="assets/github-banner.png" alt=Designing with intention — Cara Slingsby" width="100%">
+</div>
 # Cara Slingsby
 ### UX/UI DESIGN · CREATIVE TECHNOLOGY · USER-CENTERED DESIGN
 *Designing with intention.*
